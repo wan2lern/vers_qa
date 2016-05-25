@@ -1,6 +1,6 @@
-## GIT med Github
+# GIT med Github
 
-# Övning 1: Kollaborativt samarbete
+## Övning 1: Kollaborativt samarbete
 
 Para ihop er 2 och 2, samarbetet börjar vid steg 10. 
 Alla skall göra stegen 1­ - 10.
@@ -32,7 +32,7 @@ att ni chattar med varandra.
 Chatta med varandra via versionshantering där varannan person gör stegen 15­ - 19.
 
 
-# Övning 2: Fixa en merge conflict
+## Övning 2: Fixa en merge conflict
 
 Framkalla en merge conflict genom att ni ändrar på samma rad. Kom ihåg att alltid hämta senaste versionen från det avlägsna repot (git pull) innan ni skickar till det avlägsna repot (git push). På så sätt kan merge conflicts endast ske lokalt och därmed hålls det avlägsna repot felfritt.
 
